@@ -1,7 +1,7 @@
 name: DevourNow
 favicon: null
-layout_spectrum: 0.5399006742518395
-typography_spectrum: 0.38461824785918
+layout_spectrum: 0.72791
+typography_spectrum: 0.30844
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
-  brandStrength: 0.7215901424642652
+    - '#010600'
+    - '#fe9600'
+    - '#ac6700'
+    - '#b9e400'
+    - '#fce49e'
+  brandStrength: 0.6875
   lightness: 0.33988106809556484
-  saturation: 0.13156693242490292
-  rhythmicContrast: 0.14338153321295977
+  saturation: 0.125
+  rhythmicContrast: 0.25
 purpose: []
