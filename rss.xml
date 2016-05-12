@@ -4,8 +4,15 @@
         <description><![CDATA[DevourNow]]></description>
         <link>https://thegrid.ai/devournow/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 12 May 2016 17:12:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 May 2016 17:12:59 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/devournow/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Butter Chicken at Diana Downtown]]></title>
+            <description><![CDATA[<article><h1>Butter Chicken at Diana Downtown</h1><p>Explore & Discover Guelph</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/36387019-b13f-4993-a5f9-44b2e3710a5d.jpg"></article>]]></description>
+            <link>https://thegrid.ai/devournow/butter-chicken-at-diana-downtown/index.html</link>
+            <guid isPermaLink="false">b9de721f-1260-434b-9704-ac0c1abdc789</guid>
+            <pubDate>Thu, 12 May 2016 17:12:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[A Taste of Rhodes in Southern Ontario]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7c88100c-b6fb-4b31-a02b-29451188376b.png">]]></description>
@@ -19,13 +26,6 @@
             <link>https://thegrid.ai/devournow/port-credit-ontario/index.html</link>
             <guid isPermaLink="false">90b72954-8469-40ab-b9e1-3c8ea76d1cfe</guid>
             <pubDate>Thu, 12 May 2016 15:37:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Butter Chicken at Diana Downtown]]></title>
-            <description><![CDATA[<article><h1>Butter Chicken at Diana Downtown</h1><p>Explore & Discover Guelph</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/36387019-b13f-4993-a5f9-44b2e3710a5d.jpg"></article>]]></description>
-            <link>https://thegrid.ai/devournow/butter-chicken-at-diana-downtown/index.html</link>
-            <guid isPermaLink="false">b9de721f-1260-434b-9704-ac0c1abdc789</guid>
-            <pubDate>Thu, 12 May 2016 02:01:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
