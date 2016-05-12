@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: A Taste of Rhodes in Southern Ontario
-datePublished: '2016-05-12T02:04:30.169Z'
-dateModified: '2016-05-12T02:04:27.782Z'
+datePublished: '2016-05-12T02:55:12.357Z'
+dateModified: '2016-05-12T02:05:42.731Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-12-a-taste-of-rhodes-in-southern-ontario.md
@@ -34,7 +34,7 @@ Aristotle's Street comes out of Hippocrates Square and takes you to the old Jewi
 
 Before you head outside the Old Town walls, grab a bite to eat at [Hatzikelis Seafood Restaurant.][1]
 
-They have been serving Greek and Mediterranean food since 1982\. Whether you are seated inside or out in the courtyard, overlooking the ruined Church of the Virgin, you are guaranteed to enjoy all of their entrees. They use the freshest foods and take the time to prepare every dish with love.As you head into the "New City", you will be able to walk through Mandraki. Mandraki is a marina that has windmills and Rhodian deer statues. Rodini Park is another area of beauty and is also one of the oldest parks in the world. There are bridges that go over ponds and streams. You will be able to see some rare plants and walk along with a peacock or two. 
+They have been serving Greek and Mediterranean food since 1982\. Whether you are seated inside or out in the courtyard, overlooking the ruined Church of the Virgin, you are guaranteed to enjoy all of their entrees. They use the freshest foods and take the time to prepare every dish with love. As you head into the "New City", you will be able to walk through Mandraki. Mandraki is a marina that has windmills and Rhodian deer statues. Rodini Park is another area of beauty and is also one of the oldest parks in the world. There are bridges that go over ponds and streams. You will be able to see some rare plants and walk along with a peacock or two. 
 
 It is easy to see why Rhodes, Greece is a popular vacation destination. The people who live there embrace their culture and their past and they are willing to share all of this with others. People who are visiting for the first time will be amazed at how well the city is cared for and by the end of their time there, they will feel like they have a new home. 
 
