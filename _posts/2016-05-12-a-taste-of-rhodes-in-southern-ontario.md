@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: A Taste of Rhodes in Southern Ontario
-datePublished: '2016-05-12T02:04:18.542Z'
-dateModified: '2016-05-12T02:03:43.494Z'
+datePublished: '2016-05-12T02:04:30.169Z'
+dateModified: '2016-05-12T02:04:27.782Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-12-a-taste-of-rhodes-in-southern-ontario.md
