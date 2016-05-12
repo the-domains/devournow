@@ -4,8 +4,15 @@
         <description><![CDATA[DevourNow]]></description>
         <link>https://thegrid.ai/devournow/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 12 May 2016 17:12:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 May 2016 17:13:42 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/devournow/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Port Credit, Ontario]]></title>
+            <description><![CDATA[<article><h1>Port Credit, Ontario</h1><p>Probing the 'Village on the Lake'</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9f2a6454-669a-438b-9139-2a4a3e12eb03.jpg"></article>]]></description>
+            <link>https://thegrid.ai/devournow/port-credit-ontario/index.html</link>
+            <guid isPermaLink="false">90b72954-8469-40ab-b9e1-3c8ea76d1cfe</guid>
+            <pubDate>Thu, 12 May 2016 17:13:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Butter Chicken at Diana Downtown]]></title>
             <description><![CDATA[<article><h1>Butter Chicken at Diana Downtown</h1><p>Explore & Discover Guelph</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/36387019-b13f-4993-a5f9-44b2e3710a5d.jpg"></article>]]></description>
@@ -19,13 +26,6 @@
             <link>https://thegrid.ai/devournow/a-taste-of-rhodes-in-southern-ontario/index.html</link>
             <guid isPermaLink="false">5fe38914-c8c3-4b65-83c9-1f2fe26997e5</guid>
             <pubDate>Thu, 12 May 2016 17:12:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Port Credit, Ontario]]></title>
-            <description><![CDATA[<article><h1>Port Credit, Ontario</h1><p>Probing the 'Village on the Lake'</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9f2a6454-669a-438b-9139-2a4a3e12eb03.jpg"></article>]]></description>
-            <link>https://thegrid.ai/devournow/port-credit-ontario/index.html</link>
-            <guid isPermaLink="false">90b72954-8469-40ab-b9e1-3c8ea76d1cfe</guid>
-            <pubDate>Thu, 12 May 2016 15:37:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
