@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: A Taste of Rhodes in Southern Ontario
-datePublished: '2016-05-12T02:02:33.067Z'
-dateModified: '2016-05-12T02:02:19.607Z'
+datePublished: '2016-05-12T02:04:18.542Z'
+dateModified: '2016-05-12T02:03:43.494Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-12-a-taste-of-rhodes-in-southern-ontario.md
@@ -22,7 +22,7 @@ _type: Article
 
 ---
 A Taste of Rhodes in Southern Ontario
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fd6f2697-e2b2-476f-af9d-fef526e9fd39.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/be13386dc1f187c9f19443ada6e51aa88f5332d6.jpg)
 
 If you have been to [Colossus Greek Taverna][0] in Oakville or Port Credit then you have already been able to experience part of Rhodes, Greece. After all, Rhodes was the inspiration behind this restaurant. Rhodes, Greece is the capital of the Dodecanese Islands and is one of the more popular destinations in all of Europe. It is also home to Colossus of Rhodes, which is one of the Seven Wonders of the Ancient World. When you are vacationing in Rhodes, you get to experience green hills and valleys as well as miles of beaches. 
 
