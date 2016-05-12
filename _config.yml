@@ -1,0 +1,28 @@
+name: DevourNow
+favicon: null
+layout_spectrum: 0.5399006742518395
+typography_spectrum: 0.38461824785918
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.7215901424642652
+  lightness: 0.33988106809556484
+  saturation: 0.13156693242490292
+  rhythmicContrast: 0.14338153321295977
+purpose: []
