@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Explore & Discover Guelph'
-datePublished: '2016-05-12T17:12:57.886Z'
-dateModified: '2016-05-12T17:12:49.399Z'
+datePublished: '2016-05-14T15:54:28.053Z'
+dateModified: '2016-05-12T17:13:06.579Z'
 title: Butter Chicken at Diana Downtown
 author:
   - name: ''
