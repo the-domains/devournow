@@ -2,6 +2,7 @@ name: DevourNow
 favicon: null
 layout_spectrum: 0.72791
 typography_spectrum: 0.30844
+title: Devour Now
 cta:
   domain: null
   bucket: null
