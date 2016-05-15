@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: A Piece of Italy in Kerr Village
-datePublished: '2016-05-15T14:54:21.664Z'
-dateModified: '2016-05-15T14:54:05.770Z'
+datePublished: '2016-05-15T14:57:34.312Z'
+dateModified: '2016-05-15T14:54:24.423Z'
 title: ''
 author: []
 authors: []
@@ -24,7 +24,7 @@ _type: Article
 A Piece of Italy in Kerr Village
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cb739750-a9c3-4f1d-a96c-19a31d68e0b7.png)
 
-Kerr Village is located right in the heart of Oakville and near Lake Ontario.  The village is growing quite quickly, but it still has that warm and welcoming feel.  The village can attribute this feeling to all of the 39 different cultures that are represented in this community.  
+Kerr Village is located right in the heart of Oakville and near Lake Ontario. The village is growing quite quickly, but it still has that warm and welcoming feel. The village can attribute this feeling to all of the 39 different cultures that are represented in this community. 
 
 There are many small and independently owned retail shops in Kerr Village. All of these shops offer unique treasures and other unusual items. Anyone will be able to find handcrafted furniture, antiques, artwork and collector's items. There are also stores that sell clothes, accessories, home décor and hobby supplies. 
 
