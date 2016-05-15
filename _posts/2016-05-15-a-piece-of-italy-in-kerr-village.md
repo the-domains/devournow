@@ -5,10 +5,11 @@ inNav: false
 inLanguage: null
 keywords: []
 description: A Piece of Italy in Kerr Village
-datePublished: '2016-05-15T14:57:34.312Z'
-dateModified: '2016-05-15T14:54:24.423Z'
+datePublished: '2016-05-15T15:06:13.708Z'
+dateModified: '2016-05-15T15:06:12.477Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-15-a-piece-of-italy-in-kerr-village.md
 authors: []
 publisher:
   name: null
@@ -16,7 +17,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-15-a-piece-of-italy-in-kerr-village.md
 url: a-piece-of-italy-in-kerr-village/index.html
 _type: Article
 
@@ -31,7 +31,5 @@ There are many small and independently owned retail shops in Kerr Village. All o
 Kerr Village has many events throughout the year. Kerrfest is a vintage car show that includes a DJ and much more. Kids of all ages will love the skateboarding competition, kid's zone and the Polar Express train. There is also a sidewalk sale, vendors selling food and a beer garden. British Car Day began back in 1984 and is held on the third Sunday of September. Over 8,000 people attend the event so that they can see at least 1,000 British cars. ​
 
 The village has many restaurants where people can enjoy a delicious meal. [Nino's Authentic Italian Restaurant][0] is one of those restaurants. The inspiration for their food comes directly from Rome and they serve traditional Italian meals. Their menu includes lasagna, gnocchi, veal, rigatoni bolognese and gourmet pizzas. All of their pasta is made fresh and while the meals may seem simple, the flavours are not. They use quality ingredients and yet their meals are affordable. Everyone will love the experiences they have while in Kerr Village and after they have eaten at Nino's Authentic Italian Restaurant, they will feel like they have been in Rome for the day. The food is that delicious and authentic.
-
-
 
 [0]: http://www.ninopanino.ca/#authenticdishes
