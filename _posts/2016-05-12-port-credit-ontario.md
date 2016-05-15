@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: "Probing the 'Village on the Lake'"
-datePublished: '2016-05-15T15:07:30.950Z'
-dateModified: '2016-05-15T15:06:49.368Z'
+datePublished: '2016-05-15T15:11:44.986Z'
+dateModified: '2016-05-15T15:07:34.053Z'
 title: 'Port Credit, Ontario'
 author:
   - name: ''
