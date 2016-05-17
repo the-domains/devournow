@@ -5,10 +5,11 @@ inNav: false
 inLanguage: null
 keywords: []
 description: The Saganaki Experience
-datePublished: '2016-05-17T19:39:56.440Z'
-dateModified: '2016-05-17T19:27:44.245Z'
+datePublished: '2016-05-17T19:56:44.834Z'
+dateModified: '2016-05-17T19:40:02.130Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-17-the-saganaki-experience.md
 authors: []
 publisher:
   name: null
@@ -16,7 +17,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-17-the-saganaki-experience.md
 url: the-saganaki-experience/index.html
 _type: Article
 
