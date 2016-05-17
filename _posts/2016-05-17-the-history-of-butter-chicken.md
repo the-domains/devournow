@@ -5,10 +5,11 @@ inNav: false
 inLanguage: null
 keywords: []
 description: The History of Butter Chicken
-datePublished: '2016-05-17T19:39:16.991Z'
-dateModified: '2016-05-17T19:38:38.876Z'
+datePublished: '2016-05-17T19:57:03.030Z'
+dateModified: '2016-05-17T19:39:19.467Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-17-the-history-of-butter-chicken.md
 authors: []
 publisher:
   name: null
@@ -16,7 +17,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-17-the-history-of-butter-chicken.md
 url: the-history-of-butter-chicken/index.html
 _type: Article
 
