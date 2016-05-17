@@ -4,11 +4,12 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: "Campbellville is in Ontario, Canada and is a popular destination that is near Toronto.\_ There is plenty to do in this community, especially if visitors are looking for family fun. Campbellville has a rustic feel and there are many shops including antique shops and restaurants for visitors to explore. \_"
-datePublished: '2016-05-15T15:05:36.248Z'
-dateModified: '2016-05-15T15:05:30.876Z'
+description: 'Campbellville is in Ontario, Canada and is a popular destination that is near Toronto. There is plenty to do in this community, especially if visitors are looking for family fun. Campbellville has a rustic feel and there are many shops including antique shops and restaurants for visitors to explore. '
+datePublished: '2016-05-17T17:52:01.298Z'
+dateModified: '2016-05-15T15:05:52.966Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-15-its-worth-the-drive-to-campbellville.md
 authors: []
 publisher:
   name: null
@@ -16,7 +17,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-15-its-worth-the-drive-to-campbellville.md
 url: its-worth-the-drive-to-campbellville/index.html
 _type: Article
 
@@ -24,7 +24,7 @@ _type: Article
 It's Worth the Drive to Campbellville
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a31c87d7-311f-4f09-b9ab-ccb4071be7ea.jpg)
 
-Campbellville is in Ontario, Canada and is a popular destination that is near Toronto.  There is plenty to do in this community, especially if visitors are looking for family fun. Campbellville has a rustic feel and there are many shops including antique shops and restaurants for visitors to explore.  
+Campbellville is in Ontario, Canada and is a popular destination that is near Toronto. There is plenty to do in this community, especially if visitors are looking for family fun. Campbellville has a rustic feel and there are many shops including antique shops and restaurants for visitors to explore. 
 
 The Crawford Lake Conservation Area includes Crawford Lake, which was determined to be a good spot for archeological and geochemical studies. The area connects to the Bruce Trail and is well known by hikers, cross country skiers and people who snowshoe. Another conservation area is the Mountsberg Conservation Area which is home to different varieties of birds, buffalos, horses and other animals. 
 
