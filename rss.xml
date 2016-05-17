@@ -4,8 +4,15 @@
         <description><![CDATA[Devour Now]]></description>
         <link>http://devournow.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 17 May 2016 19:57:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 May 2016 20:03:14 GMT</lastBuildDate>
         <atom:link href="http://devournow.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Burlington On The Water]]></title>
+            <description><![CDATA[<article><h1>Burlington On The Water</h1><p>Discover Burlington; Eat. Explore. Enjoy.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ad38aa3c-baab-4d4d-90d0-b425ab042a01.jpg"></article>]]></description>
+            <link>http://devournow.com/burlington-on-the-water/index.html</link>
+            <guid isPermaLink="false">33f41ad1-4cbc-4e0f-92d3-245c1e0b9111</guid>
+            <pubDate>Tue, 17 May 2016 20:03:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>The History of Butter Chicken</p>]]></description>
@@ -33,13 +40,6 @@
             <link>http://devournow.com/a-piece-of-italy-in-kerr-village/index.html</link>
             <guid isPermaLink="false">cf5ffab1-f1f4-4111-bcbb-e59d4415ed93</guid>
             <pubDate>Tue, 17 May 2016 18:57:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Burlington On The Water]]></title>
-            <description><![CDATA[<article><h1>Burlington On The Water</h1><p>Discover Burlington; Eat. Explore. Enjoy.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ad38aa3c-baab-4d4d-90d0-b425ab042a01.jpg"></article>]]></description>
-            <link>http://devournow.com/burlington-on-the-water/index.html</link>
-            <guid isPermaLink="false">33f41ad1-4cbc-4e0f-92d3-245c1e0b9111</guid>
-            <pubDate>Tue, 17 May 2016 18:57:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Port Credit, Ontario]]></title>
