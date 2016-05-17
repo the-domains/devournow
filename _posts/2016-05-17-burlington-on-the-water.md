@@ -5,12 +5,13 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Discover Burlington; Eat. Explore. Enjoy.
-datePublished: '2016-05-17T18:56:20.654Z'
-dateModified: '2016-05-17T18:56:07.270Z'
+datePublished: '2016-05-17T18:57:02.334Z'
+dateModified: '2016-05-17T18:56:26.287Z'
 title: Burlington On The Water
 author:
   - name: ''
     url: ''
+sourcePath: _posts/2016-05-17-burlington-on-the-water.md
 authors: []
 publisher:
   name: null
@@ -18,7 +19,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-17-burlington-on-the-water.md
 url: burlington-on-the-water/index.html
 _type: Article
 
