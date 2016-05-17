@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Campbellville is in Ontario, Canada and is a popular destination that is near Toronto. There is plenty to do in this community, especially if visitors are looking for family fun. Campbellville has a rustic feel and there are many shops including antique shops and restaurants for visitors to explore. '
-datePublished: '2016-05-17T17:52:01.298Z'
-dateModified: '2016-05-15T15:05:52.966Z'
+datePublished: '2016-05-17T17:52:16.999Z'
+dateModified: '2016-05-17T17:52:09.327Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-15-its-worth-the-drive-to-campbellville.md
