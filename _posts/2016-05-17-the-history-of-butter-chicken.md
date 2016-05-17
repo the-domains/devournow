@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: The History of Butter Chicken
-datePublished: '2016-05-17T19:57:03.030Z'
-dateModified: '2016-05-17T19:39:19.467Z'
+datePublished: '2016-05-17T20:11:34.962Z'
+dateModified: '2016-05-17T19:57:11.696Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-17-the-history-of-butter-chicken.md
@@ -37,7 +37,5 @@ When it comes to enjoying a foreign dish in restaurants, we become skeptical bec
 [Indian Cuisine By The Lake][0] is one of the most loved restaurants if you wish to enjoy delicious Indian food. Be it the baked breads, kebabs, spiced curries or the very popular Butter Chicken, you can get all in this humble restaurant. Just come here to enjoy good food cooked by expert chefs and dedicated staff that will make your dining experience memorable. There is also takeout options available and if you are looking for Indian food catering, then Indian Cuisine By The Lake will be best for the job. 
 
 If you love curries, tandoor, kebabs or Butter Chicken, Indian Cuisine By The Lake in Mississauga, Ontario is the place to get all this good food in one platter. 
-
-
 
 [0]: http://indiancuisinebythelake.com/
