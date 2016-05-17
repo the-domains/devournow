@@ -1,28 +1,29 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-keywords: []
-description: The Saganaki Experience
-datePublished: '2016-05-17T20:03:20.462Z'
-dateModified: '2016-05-17T19:56:53.218Z'
-title: ''
-author: []
+datePublished: '2016-05-17T20:06:57.485Z'
 sourcePath: _posts/2016-05-17-the-saganaki-experience.md
+inFeed: true
 authors: []
+hasPage: true
+keywords: []
+author:
+  - name: ''
+    url: ''
+dateModified: '2016-05-17T20:06:47.381Z'
+title: The Saganaki Experience
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
+description: What Makes Saganaki Pan-Smeared Cheese Recipe a Mouth-watering Delicacy?
+inLanguage: null
+inNav: false
 starred: false
 url: the-saganaki-experience/index.html
 _type: Article
 
 ---
-The Saganaki Experience
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/94711edf-ad46-4096-abe3-76a13a87a4cc.jpg)
+![For various cheese lovers across the world, let us present to you a simple, delectable and traditional Saganaki recipe.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/94711edf-ad46-4096-abe3-76a13a87a4cc.jpg)
 
 **What Makes Saganaki Pan-Smeared Cheese Recipe a Mouth-watering Delicacy?**
 
@@ -34,7 +35,7 @@ Saganaki would be referred to several Greek appetizers. These would be prepared 
 
 **Saganaki recipe requires a specific kind of cheese**
 
-While preparing a Saganaki pan-smeared cheese, the main aim would be to pick the correct cheese for the recipe. It should be firm to hold itself decently against the heat. It would not be wrong to suggest that the traditional cheese used in Greek Saganaki recipe have been graviera, kefalotyri, and kefalograviera. These have been the most preferred options when it comes to selecting cheese for Greek Saganaki recipe. These are hard yellow cheeses. The regional variations might make use of Mastello or Cypriot Halloumi, which is from the Chios Island. You would enjoy the delectable and traditional Greek cuisine by having lemon squeezed on top of it to add to the flavour. You could also add some crusted bread with it. The recipe has been widely popular with the people across the world. It has been a great appetizer as well. 
+While preparing a Saganaki pan-smeared cheese, the main aim would be to pick the correct cheese for the recipe. It should be firm to hold itself decently against the heat. It would not be wrong to suggest that the traditional cheese used in Greek Saganaki recipe have been graviera, kefalotyri, and kefalograviera. These have been the most preferred options when it comes to selecting cheese for Greek Saganaki recipe. These are hard yellow cheeses. The regional variations might make use of Mastello or Cypriot Halloumi, which is from the Chios Island. You would enjoy the delectable and traditional Greek cuisine by having lemon squeezed on top of it to add to the flavour. You could also add some crusted bread with it. The recipe has been widely popular with the people across the world. It has been a great appetizer as well.
 
 One can experience delicious Saganaki at [Colossus Greek Taverna][0] located in Oakville, Ontario and Port Credit, Ontario. Be sure to call for reservations in advance. Colossus offers its customers an authentic greek dining experience featuring a vast array of decadent choices.
 
