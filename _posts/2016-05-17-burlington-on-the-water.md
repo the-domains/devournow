@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Discover Burlington; Eat. Explore. Enjoy.
-datePublished: '2016-05-17T18:57:02.334Z'
-dateModified: '2016-05-17T18:56:26.287Z'
+datePublished: '2016-05-17T20:03:10.697Z'
+dateModified: '2016-05-17T18:57:11.370Z'
 title: Burlington On The Water
 author:
   - name: ''
