@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: The Taste of Thali
-datePublished: '2016-05-18T15:01:30.415Z'
-dateModified: '2016-05-18T14:56:31.102Z'
+datePublished: '2016-05-18T15:13:45.659Z'
+dateModified: '2016-05-18T15:01:37.826Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-18-the-taste-of-thali.md
